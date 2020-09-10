@@ -1,0 +1,2 @@
+language = "go"
+run = "chmod 755 ./run_example.sh && ./run_example.sh"
